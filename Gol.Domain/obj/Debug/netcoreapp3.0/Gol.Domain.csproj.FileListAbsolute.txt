@@ -1,0 +1,8 @@
+E:\dev\TesteGol\Gol.Domain\bin\Debug\netcoreapp3.0\Gol.Domain.deps.json
+E:\dev\TesteGol\Gol.Domain\bin\Debug\netcoreapp3.0\Gol.Domain.dll
+E:\dev\TesteGol\Gol.Domain\bin\Debug\netcoreapp3.0\Gol.Domain.pdb
+E:\dev\TesteGol\Gol.Domain\obj\Debug\netcoreapp3.0\Gol.Domain.csprojAssemblyReference.cache
+E:\dev\TesteGol\Gol.Domain\obj\Debug\netcoreapp3.0\Gol.Domain.AssemblyInfoInputs.cache
+E:\dev\TesteGol\Gol.Domain\obj\Debug\netcoreapp3.0\Gol.Domain.AssemblyInfo.cs
+E:\dev\TesteGol\Gol.Domain\obj\Debug\netcoreapp3.0\Gol.Domain.dll
+E:\dev\TesteGol\Gol.Domain\obj\Debug\netcoreapp3.0\Gol.Domain.pdb

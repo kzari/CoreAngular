@@ -1,0 +1,26 @@
+<h1>Adicionar Passageiro</h1>
+
+<div class="container">
+
+<form [formGroup]="form" (ngSubmit)="onSubmit()" class="form">
+
+    <h5 *ngIf="success">Passageiro cadastrado com sucesso!</h5>
+
+    <label>
+      Nome:
+      <input type="text" formControlName="name" >
+      <div *ngIf="submitted && form.controls.name.errors" class="error">
+        <div *ngIf="form.controls.name.errors.required">O Nome é obrigatório</div>
+      </div>
+    </label>
+
+    <input type="submit" value="Cadastrar" class="cta">
+  
+  </form>
+
+</div>
+
+<div *ngIf="submitted" class="results">
+    <strong>Name:</strong> 
+    <span>{{ form.controls.name.value }}</span>
+  </div>

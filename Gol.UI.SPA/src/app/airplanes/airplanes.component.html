@@ -1,0 +1,12 @@
+<h1>Aeronaves</h1>
+
+<div>
+    <p>&nbsp;&nbsp;Modelo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prefixo</p>
+</div>
+
+<ul *ngIf="airplanes">
+    <li *ngFor="let airplane of airplanes">
+        <p>{{ airplane.model }}</p>
+        <p>{{ airplane.prefix }}</p>
+    </li>
+</ul>

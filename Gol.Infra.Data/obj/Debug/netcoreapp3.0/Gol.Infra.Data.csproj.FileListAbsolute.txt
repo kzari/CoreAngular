@@ -1,0 +1,11 @@
+E:\dev\TesteGol\Gol.Infra.Data\bin\Debug\netcoreapp3.0\Gol.Infra.Data.deps.json
+E:\dev\TesteGol\Gol.Infra.Data\bin\Debug\netcoreapp3.0\Gol.Infra.Data.dll
+E:\dev\TesteGol\Gol.Infra.Data\bin\Debug\netcoreapp3.0\Gol.Infra.Data.pdb
+E:\dev\TesteGol\Gol.Infra.Data\bin\Debug\netcoreapp3.0\Gol.Domain.dll
+E:\dev\TesteGol\Gol.Infra.Data\bin\Debug\netcoreapp3.0\Gol.Domain.pdb
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.csprojAssemblyReference.cache
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.AssemblyInfoInputs.cache
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.AssemblyInfo.cs
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.csproj.CopyComplete
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.dll
+E:\dev\TesteGol\Gol.Infra.Data\obj\Debug\netcoreapp3.0\Gol.Infra.Data.pdb
